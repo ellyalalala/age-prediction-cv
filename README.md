@@ -1,7 +1,6 @@
 
-Age Prediction with CV: Built a CNN to predict age from face images for a retail use case (Khleb-Sol supermarket). Completed EDA, preprocessing, model training, and evaluation to support product targeting and age verification at checkout.
 
-🧠 A computer vision project for predicting a person’s age from a photo using deep learning.
+ **A computer vision project for predicting a person’s age from a photo using deep learning.**
 
 📌 Project Description
 This project was completed as part of the Yandex Practicum Data Science course.
