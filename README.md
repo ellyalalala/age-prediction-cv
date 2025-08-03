@@ -1,6 +1,6 @@
 
 
- **A computer vision project for predicting a person’s age from a photo using deep learning.**
+ **_A computer vision project for predicting a person’s age from a photo using deep learning._**
 
 📌 **Project Description**
 
